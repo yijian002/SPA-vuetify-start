@@ -10,7 +10,7 @@ $ npm set registry https://registry.npm.taobao.org/
 $ npm install -g vue-cli
 
 # 开始
-$ vue init yijian002/spa-vux-quickstart my-project
+$ vue init js-frontend/spa-vux-quickstart my-project
 $ cd my-project
 $ npm install
 $ npm run dev
