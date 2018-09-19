@@ -27,10 +27,6 @@ module.exports = {
         "axios": {
           "type": "confirm",
           "message": "Use axios?"
-        },
-        "lint": {
-            "type": "confirm",
-            "message": "Use ESLint to lint your code?"
         }
     },
     "filters": {
