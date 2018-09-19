@@ -19,6 +19,7 @@ $ npm run dev
 ## What is VUX
 
 VUX 是基于 WeUI 和 Vue.js 的 移动端 UI 组件库，提供丰富的组件满足移动端(微信)页面常用业务需求。
+
 （UI一般，各自取舍。）
 
 [官网](https://vux.li/)
