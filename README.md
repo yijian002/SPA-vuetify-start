@@ -1,9 +1,9 @@
 # spa-vux-quickstart
 
-## 基本用法
-``` bash
+## How use
 
-# 如果没安装
+``` bash
+# If you do not install
 $ npm install -g vue-cli
 
 $ vue init yijian002/spa-vux-quickstart my-project
