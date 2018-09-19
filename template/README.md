@@ -1,4 +1,4 @@
-# spa-vux-start
+# SPA-VUX
 
 > A Vue.js project
 
@@ -19,3 +19,27 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## axios
+
+```js
+import api from '../comm/js/api';
+
+// How use
+api.get('/url', params).then((res) => {
+	/*
+	res = {
+		code: 0,
+		data: {},
+		message: ''
+	}
+	*/
+})
+
+api.post
+api.put
+api.del // (or api.delete)
+
+api.gourl('/url', params) // window.location.href
+```
