@@ -1,14 +1,20 @@
 {
-  "name": "spa-vux-quickstart",
+  "name": "vux-quickstart",
   "version": "1.0.0",
-  "author": "Vic.Yang",
-  "license": "MIT",
-  "description": "spa-vux-quickstart",
+  "description": "vux ui quickstart",
   "scripts": {
   	"docs": "cd docs && gitbook serve",
   	"docs:deploy": "bash ./deploy-docs.sh"
   },
   "devDependencies": {
   	"vue-cli": "^2.8.1"
-  }
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "vuex",
+    "quickstart"
+  ],
+  "author": "Vic.Yang",
+  "license": "MIT"
 }

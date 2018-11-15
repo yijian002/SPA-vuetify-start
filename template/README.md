@@ -44,3 +44,8 @@ api.del // (or api.delete)
 
 api.gourl('/url', params) // window.location.href
 ```
+
+### eslint-loader
+
+- rules配置文件：build/webpack.base.conf.js
+- [Docs: Eslint rules](https://eslint.org/docs/2.0.0/rules/)
